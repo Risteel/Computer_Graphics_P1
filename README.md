@@ -7,6 +7,7 @@
 一點開後會彈出此畫面，請選OpenGL
 
 ![](https://i.imgur.com/aghSY8y.png)
+
 接者可以選擇圖片及對圖片選擇你要的處理，按下file後可以選擇要讀/存圖片
 
 ![](https://i.imgur.com/HLfv6Pr.png)
@@ -15,6 +16,7 @@
 原圖
 
 ![](https://i.imgur.com/sOUyFAv.png)
+
 油畫化後(NPR)
 
 ![](https://i.imgur.com/9Zccr7n.png)
